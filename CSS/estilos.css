@@ -21,6 +21,7 @@ header{
     background-color:darkred;
     display: inline-block;
     max-width: 65%;
+    margin: auto;
 }
 footer{
     background-color: darkslategray;
